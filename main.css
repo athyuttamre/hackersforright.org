@@ -53,7 +53,7 @@ table {
 
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background: url(aaron.jpg) no-repeat right center fixed; 
+    background: url(aaron.jpg) no-repeat 80% 50% fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
